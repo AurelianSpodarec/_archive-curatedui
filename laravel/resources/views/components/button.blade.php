@@ -1,0 +1,7 @@
+@props([
+    'label' => ""
+])
+
+<button>
+
+</button>
